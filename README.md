@@ -28,3 +28,5 @@ Thank you for taking the time to read this, even though it might not have been n
 
 
 ![New York](https://github.com/deep1327007/Weather-Website/blob/main/Weather%20Status%20SS/NEW%20YORK.png)
+
+![LAS VEGAS](https://github.com/deep1327007/Weather-Website/blob/main/Weather%20Status%20SS/LAS%20VEGAS.png)
