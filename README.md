@@ -27,4 +27,4 @@ Redesigned the entire theme of the website to a black-and-white aesthetic, with 
 Thank you for taking the time to read this, even though it might not have been necessary. Happy coding, and may you squash all those bugs efficiently!
 
 
-![New York]!(https://github.com/deep1327007/Weather-Website/blob/main/Weather%20Status%20SS/NEW%20YORK.png)
+![New York](https://github.com/deep1327007/Weather-Website/blob/main/Weather%20Status%20SS/NEW%20YORK.png)
